@@ -89,12 +89,3 @@ Selected projects from my degree.
 ![Phaser](https://img.shields.io/badge/Phaser%203-A25E9F?style=for-the-badge&logo=phaser&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugomarques13&show_icons=true&theme=tokyonight" alt="Hugo's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomarques13&layout=compact&theme=tokyonight" alt="Top languages" height="165">
-</p>
