@@ -1,7 +1,7 @@
 <h1 align="center">Hugo Marques</h1>
 
 <p align="center">
-  Aspiring game designer and engineer with a lifelong passion for video games. I build games, train computer-vision models, and write performance-critical C.
+  Game engineer with a lifelong passion for video games. Freelancing since 2022, open to remote game engineering roles. I build games, train computer-vision models, and write performance-critical C.
 </p>
 
 <p align="center">
@@ -16,8 +16,9 @@
 ## 🧑‍💻 About Me
 
 - 🎮 Aspiring **game designer and engineer** with a lifelong passion for video games.
+- 💼 **Freelance game engineer** since 2022, building everything from back-end systems to visual and audio asset integration for teams and individual clients. **Open to remote game work.**
 - 🎓 BSc in Computer Science (2022–2025) and current MSc in **Informatics Engineering** (2025–2027, expected) at **Universidade do Minho**, specializing in *Software Development, Validation & Maintenance* and *Computer Graphics & Computer Vision*.
-- 🕹️ Build games in **Godot (GDScript)**, developed under game-jam constraints of 2 days to a week.
+- 🕹️ Build games in **Godot (GDScript)** and **Unity (C#)**, mostly under game-jam constraints of 2 days to a week.
 - 🧩 Around **6 years** developing in **Luau** on **Roblox Studio** (since 2020), including commissioned work for external clients.
 - 🤖 Interests in **computer vision**, **computer graphics**, and **high-performance computing**.
 - 🌍 Fluent in **Portuguese** and **English** (C2), conversational **Spanish** (B2).
@@ -34,7 +35,10 @@
 
 ## 🎮 Games I've Developed
 
-All built during game jams (some 2 days, some a week) in **Godot (GDScript)**. Most are playable in the browser on [itch.io](https://diegobangles.itch.io).
+All built during game jams (some 2 days, some a week) in **Godot (GDScript)** or **Unity (C#)**. Most are playable in the browser on [itch.io](https://diegobangles.itch.io).
+
+### ⏳ [Timesplinter](https://github.com/hugomarques13/Timesplinter) &nbsp;·&nbsp; [▶️ Play](https://diegobangles.itch.io/timesplinter)
+A wizard tinkers with time to save a loved one, shattering across time and space, and must face the Mage Council of Dungeon Dominium in The Fallgore. A different take on turn-based combat where acting costs time: balance attacking with dodging before time resumes. Built in **Unity** for the **GMTK Game Jam 2026** (4-day jam). *(Aug 2026)*
 
 ### 🏰 [LEAVE MY DUNGEON!](https://github.com/hugomarques13/Dungeon-Game) &nbsp;·&nbsp; [▶️ Play](https://diegobangles.itch.io/leave-my-dungeon)
 A reverse dungeon crawler where the player acts as the dungeon overseer, placing units, traps and field effects to fight off human intruders. Features 12+ units and 15+ intruders in turn-based combat. *(Mar 2026)*
@@ -85,6 +89,7 @@ Selected projects from my degree.
 **Tools & Technologies**
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser%203-A25E9F?style=for-the-badge&logo=phaser&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
