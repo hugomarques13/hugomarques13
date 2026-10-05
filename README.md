@@ -35,7 +35,7 @@
 
 ## 🎮 Games I've Developed
 
-All built during game jams (some 2 days, some a week) in **Godot (GDScript)** or **Unity (C#)**. Most are playable in the browser on [itch.io](https://diegobangles.itch.io).
+All built during game jams (some 2 days, some a week) in **Godot (GDScript)** or **Unity (C#)**. All are playable in the browser on [itch.io](https://diegobangles.itch.io).
 
 ### ⏳ [Timesplinter](https://github.com/hugomarques13/Timesplinter) &nbsp;·&nbsp; [▶️ Play](https://diegobangles.itch.io/timesplinter)
 A wizard tinkers with time to save a loved one, shattering across time and space, and must face the Mage Council of Dungeon Dominium in The Fallgore. A different take on turn-based combat where acting costs time: balance attacking with dodging before time resumes. Built in **Unity** for the **GMTK Game Jam 2026** (4-day jam). *(Aug 2026)*
